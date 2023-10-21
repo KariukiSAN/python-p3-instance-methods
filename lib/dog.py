@@ -7,7 +7,8 @@ class Dog:
 
     def bark(self):
         print('Woof!')
+    
 
-        def sit(self):
+    def sit(self):
             print('The dog is sitting.')
 
